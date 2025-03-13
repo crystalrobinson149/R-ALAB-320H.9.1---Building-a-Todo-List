@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(182, 118, 241);
+  background-color: rgb(250, 147, 203);
   text-align: center;
 }
 
@@ -8,14 +8,14 @@ color:aquamarine;
 background-color: black;
 width: fit-content;
 padding: 10px;
-border-bottom: 10px solid aquamarine;
+border-bottom: 10px solid rgb(196, 240, 225);
 margin: 0 auto; 
 text-align: center;
 }
 
 .toDoItem{
   /* to do item */
-  color: rgb(182, 118, 241);
+  color: rgb(243, 187, 231);
   background-color: black;
   padding: 10px;
   border-bottom: 8px solid ;
@@ -34,7 +34,7 @@ text-align: center;
 }
 
 .addButton{
-  background-color:aquamarine; 
+  background-color:rgb(190, 247, 228); 
   font-size: 15px; 
   font-weight: bolder;
   padding: 12px;
@@ -43,7 +43,7 @@ text-align: center;
 }
 
 .editDeleteButtons{
-background-color: yellow;
+background-color: rgb(250, 250, 248);
 border-radius: 30px;
 }
 
@@ -59,7 +59,7 @@ border-radius: 30px;
 }
 
 .saveButton {
-  background-color: rgb(182, 118, 241);
+  background-color: rgb(252, 150, 230);
   font-size: 15px;
   font-weight: bolder;
   padding: 12px;
@@ -68,7 +68,7 @@ border-radius: 30px;
 }
 
 .editButton{
-  background-color:rgb(182, 118, 241); 
+  background-color:rgb(252, 118, 241); 
   font-size: 15px; 
   font-weight: bolder;
   padding: 12px;
@@ -79,7 +79,7 @@ border-radius: 30px;
 }
 
 .deleteButton{
-  background-color:rgb(182, 118, 241); 
+  background-color:rgb(252, 118, 241); 
   font-size: 15px; 
   font-weight: bolder;
   padding: 12px;
